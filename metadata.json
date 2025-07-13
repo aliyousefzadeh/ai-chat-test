@@ -1,0 +1,5 @@
+{
+  "name": "AI Chat Interface",
+  "description": "A sophisticated AI chat interface that allows users to interact with different AI models, upload files for context, and maintain chat history across sessions.",
+  "requestFramePermissions": []
+}
